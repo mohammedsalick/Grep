@@ -1,0 +1,4 @@
+Sample content for file3.
+It has some additional lines.
+This file may include the pattern.
+Another line to complete the content.

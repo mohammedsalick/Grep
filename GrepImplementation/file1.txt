@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains multiple lines.
+The pattern to search for is "sample".
+Another line with a different pattern.
+Yet another line without the specified pattern.
+Make sure to include the desired pattern in this file for testing.
