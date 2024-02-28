@@ -1,0 +1,9 @@
+This is an example file.
+It contains multiple lines.
+Each line has some text in it.
+
+Line with the word "example".
+Another line with an error.
+A line with the word "example" again.
+
+This is the end of the file.
