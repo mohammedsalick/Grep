@@ -1,4 +1,0 @@
-This is some sample text in file2.
-It contains multiple lines of data.
-Pattern may or may not be present.
-The quick brown fox jumps over the lazy dog.
